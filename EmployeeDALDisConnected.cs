@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Data;
 using MySql.Data.MySqlClient;
 
-using BOL;
+using BOL;  //import the namspaces is req
 
 namespace DAL
 {
